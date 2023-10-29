@@ -185,7 +185,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Tenyne",
+      "Source": "Microsoft",
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
@@ -193,7 +193,7 @@
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -202,7 +202,7 @@
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         }
       ]
@@ -213,7 +213,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Tenyne",
+      "Source": "Microsoft",
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
@@ -221,7 +221,7 @@
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -230,7 +230,7 @@
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -239,7 +239,7 @@
           "Image": "images/categories/LP-security-subcategory.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -248,7 +248,7 @@
           "Image": "images/categories/hybridwork.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -257,7 +257,7 @@
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -266,7 +266,7 @@
           "Image": "images/categories/customfeatured.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         }
       ]
@@ -277,7 +277,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Tenyne",
+      "Source": "Microsoft",
       "SubCategories": [
         {
           "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
@@ -285,7 +285,7 @@
           "Image": "images/categories/outlook.png",
           "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -294,7 +294,7 @@
           "Image": "images/categories/onedrive.png",
           "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -303,7 +303,7 @@
           "Image": "images/categories/word.png",
           "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -312,7 +312,7 @@
           "Image": "images/categories/excel.png",
           "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -321,7 +321,7 @@
           "Image": "images/categories/powerpoint.png",
           "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -330,7 +330,7 @@
           "Image": "images/categories/onenote.png",
           "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -339,7 +339,7 @@
           "Image": "images/categories/sharepoint.png",
           "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -348,7 +348,7 @@
           "Image": "images/categories/teams.png",
           "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -357,7 +357,7 @@
           "Image": "images/categories/yammer.png",
           "TechnologyId": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -366,7 +366,7 @@
           "Image": "images/categories/office_basics.png",
           "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -375,7 +375,7 @@
           "Image": "images/categories/planner.png",
           "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -384,7 +384,7 @@
           "Image": "images/categories/forms_training.png",
           "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -393,7 +393,7 @@
           "Image": "images/categories/sway.png",
           "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -402,7 +402,7 @@
           "Image": "images/categories/access.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -411,7 +411,7 @@
           "Image": "images/categories/office_for_web.png",
           "TechnologyId": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -420,7 +420,7 @@
           "Image": "images/categories/lists_cat.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -429,7 +429,7 @@
           "Image": "images/categories/loop.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": [],
           "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7"
         },
@@ -439,7 +439,7 @@
           "Image": "images/categories/Edge.png",
           "TechnologyId": "d15c1f4d-8a62-4c33-bd6d-3fac098f3c8b",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -448,7 +448,7 @@
           "Image": "images/categories/vivaconnections.png",
           "TechnologyId": "e031aa9d-5421-4ee9-8bc6-1b871bafc7f0",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -457,7 +457,7 @@
           "Image": "images/categories/Viva_Engage.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -466,7 +466,7 @@
           "Image": "images/categories/vivagoals_learningpathways.png",
           "TechnologyId": "c9886f47-0928-4408-a2f7-c0328bca7122",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -475,7 +475,7 @@
           "Image": "images/categories/vivalearning_learningpathways.png",
           "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         }
       ]
@@ -486,7 +486,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Tenyne",
+      "Source": "Microsoft",
       "SubCategories": [
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
@@ -494,7 +494,7 @@
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         },
         {
@@ -503,7 +503,7 @@
           "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Tenyne",
+          "Source": "Microsoft",
           "SubCategories": []
         }
       ]
@@ -563,7 +563,7 @@
     "SOC",
     "FastTrack",
     "M365",
-    "Tenyne",
+    "Microsoft",
     "LinkedIn"
   ],
   "Levels": [
