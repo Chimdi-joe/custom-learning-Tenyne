@@ -181,7 +181,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "Courses",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -191,15 +191,6 @@
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
           "Name": "First days",
           "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
@@ -216,54 +207,9 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Modern workplace",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
           "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
+          "Name": " Cyber Security",
           "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-          "Name": "Hybrid workplace",
-          "Image": "images/categories/hybridwork.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-          "Name": "Accessibility",
-          "Image": "images/categories/accessibility.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
-          "Name": "Collaboration",
-          "Image": "images/categories/customfeatured.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Microsoft",
@@ -273,17 +219,17 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Webinars",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Name": "First days",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
