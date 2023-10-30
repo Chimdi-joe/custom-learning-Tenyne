@@ -320,6 +320,7 @@
     "FastTrack",
     "M365",
     "Microsoft",
+    "Tenyne",
     "LinkedIn"
   ],
   "Levels": [
@@ -359,7 +360,7 @@
     }
   ],
   "Telemetry": {
-    "AppInsightKey": "9a46dc18-dca7-4f9c-aaf7-1af9ad28fdda"
+    "AppInsightKey": ""
   },
   "Version": {
     "Manifest": "v3",
