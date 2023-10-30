@@ -360,7 +360,7 @@
     }
   ],
   "Telemetry": {
-    "AppInsightKey": ""
+    "AppInsightKey": "9a46dc18-dca7-4f9c-aaf7-1af9ad28fdda"
   },
   "Version": {
     "Manifest": "v3",
